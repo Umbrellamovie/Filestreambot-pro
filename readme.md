@@ -57,7 +57,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 <br>
 
 
-then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
+then goto the <a href="umbrellafiletolinkbot">variables tab</a> for more info on setting up environmental variables. </details>
 
 <details>
   <summary><b>Features:</b></summary>
